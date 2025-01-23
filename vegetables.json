@@ -7,4 +7,9 @@
       "codigo": 2,
       "descripcion": "manzanas",
       "precio": 54.00
+}, 
+    {
+      "codigo": 6,
+      "descripcion": "melë",
+      "precio": 30.00
 }]
